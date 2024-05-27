@@ -1,0 +1,4 @@
+steerMax=5000
+deadZone=2048
+gasThreshold=127
+brakeTheshold=55;
