@@ -7,4 +7,4 @@ Windows application for connecting the Logitech G920 Racing wheel to play unsupp
 - [ViGEmBus](https://github.com/nefarius/ViGEmBus) is required. MSVC static libray is included in this repository. The ViGEmBus server is also required [Download Here](https://github.com/nefarius/ViGEmBus/releases) and install onto your machine.
 - [HID API](https://github.com/libusb/hidapi) is required. MSVC static libary is included in this repository.
 
-This repository uses the [premake5](https://premake.github.io/) build system. Run `generate-vs2022.bat` to generate a Visual Studio 2022 solution.
+This repository uses the [premake5](https://premake.github.io/) build system. Run `build-vs2022.bat` to generate a Visual Studio 2022 solution.
